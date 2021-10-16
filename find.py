@@ -19,4 +19,4 @@ for i in input:
     if input.find('z=')> -1:   
         input = (input.replace("z=", "A"))
 
-print("결과값", len(input))
+print("결과값",len(input))
